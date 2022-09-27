@@ -1,12 +1,12 @@
 # Reading and Writing CSV
 
-- Template for reading
-- Template for writing
+## 3 Methods to Read a CSV
 
-Noise nuisance - daytime csv
+- Reading a CSV file with reader object
+- Reading a CSV file with DictReader object
+- Reading a CSV file with Pandas
 
-https://datamillnorth.org/dataset/noise-nuisance-daytime
 
-Kaggle Spotify
+Spotify DataSet
 
-https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data_o.csv
+https://www.kaggle.com/code/jsongunsw/spotify-datasets/data?select=featuresdf.csv
